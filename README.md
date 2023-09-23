@@ -8,10 +8,6 @@ Este es un proyecto de conversión de monedas y temperatura desarrollado en Java
 - Conversión de temperatura: Realiza conversiones entre las escalas Celsius, Fahrenheit y Kelvin.
 - Interfaz de usuario intuitiva: Utiliza una interfaz de usuario gráfica (GUI) para una fácil interacción.
 
-## Capturas de Pantalla
-
-![Captura de Pantalla 1](Screenshot1.png)
-
 ## Requisitos del Sistema
 
 - Java Runtime Environment (JRE) instalado.
