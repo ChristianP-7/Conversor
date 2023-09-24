@@ -16,7 +16,7 @@ Este es un proyecto de conversión de monedas y temperatura desarrollado en Java
 
 1. Clona o descarga el repositorio en tu máquina local.
 2. Abre el proyecto en tu entorno de desarrollo Java favorito.
-3. Compila y ejecuta el archivo `Conversor.java`.
+3. Compila y ejecuta el archivo `Conversor.exe`.
 
 ## Uso
 
