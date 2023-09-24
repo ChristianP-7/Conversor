@@ -9,7 +9,7 @@ public class Conversor{
 
     	    String menu = (JOptionPane.showInputDialog(null, "Elija el tipo de conversión: ", "Menú Principal", JOptionPane.PLAIN_MESSAGE, null, new Object[] {"Conversor de Moneda", "Conversor de Temperatura"}, "Escribir")).toString();
 
-    	    if (menu == "Conversor de Moneda") {
+    	    if ("Conversor de Moneda".equals(menu)) {
             String input = JOptionPane.showInputDialog("Ingrese un valor: ");
 
                 if(operation.check(input) == true) {
@@ -27,7 +27,7 @@ public class Conversor{
                 } else {
                     JOptionPane.showMessageDialog(null, "¡Error! Solo valores numéricos.");                
                 }
-            } else if (menu == "Conversor de Temperatura") {
+            } else if ("Conversor de Temperatura".equals(menu)) {
     	    String input = JOptionPane.showInputDialog("Ingrese la temperatura que desea convertir: ");
                 
                 if(operation.check(input) == true) {

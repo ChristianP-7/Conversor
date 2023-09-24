@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\chris\Documentos\Git-y-Github\Conversor\Conversor.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\chris\Documentos\Git-y-Github\Conversor\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.020.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-20
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-jar "C:\Users\chris\Documentos\Git-y-Github\Conversor\Conversor.exe"
+Args length:	69/32768 chars
+Exit code:	0
